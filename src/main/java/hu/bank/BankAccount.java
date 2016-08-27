@@ -14,7 +14,7 @@ public class BankAccount {
 		}
 
 		balance -= amount;
-		return balance;
+		return amount;
 	}
 
 }
